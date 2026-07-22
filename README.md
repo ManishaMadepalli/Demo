@@ -10,6 +10,7 @@ I am actively seeking opportunities to apply my skills, gain hands-on experience
 B.Tech – Computer Science (Data Science)
 Vignan Bharathi Institute of Technology (Expected 2026)
 CGPA: 8.43
+
 Intermediate (MPC)
 Sri Chaitanya Junior College (2020 – 2022)
 Percentage: 94%
