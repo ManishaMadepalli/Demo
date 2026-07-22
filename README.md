@@ -1,7 +1,8 @@
 # Demo
-Self Introduction 
 
-Hi! I'm Manisha Madepalli, a passionate and self-motivated Data Science student currently pursuing B.Tech in Computer Science (Data Science). I enjoy working with data, building models, and creating solutions that solve real-world problems.
+Manisha Madepalli
+
+I'm a passionate and self-motivated Data Science student currently pursuing B.Tech in Computer Science (Data Science). I enjoy working with data, building models, and creating solutions that solve real-world problems.
 I am actively seeking opportunities to apply my skills, gain hands-on experience, and grow as a Data Analyst / Data Scientist.
 
 🎓 Educational Background
